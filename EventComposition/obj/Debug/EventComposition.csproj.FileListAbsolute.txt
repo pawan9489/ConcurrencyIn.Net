@@ -1,0 +1,14 @@
+S:\Learnings\C#\Functional\EventComposition\bin\Debug\EventComposition.exe.config
+S:\Learnings\C#\Functional\EventComposition\bin\Debug\EventComposition.exe
+S:\Learnings\C#\Functional\EventComposition\bin\Debug\EventComposition.pdb
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\EventComposition.csprojResolveAssemblyReference.cache
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\MainWindow.g.cs
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\App.g.cs
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\EventComposition_MarkupCompile.cache
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\EventComposition_MarkupCompile.lref
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\MainWindow.baml
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\EventComposition.g.resources
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\EventComposition.Properties.Resources.resources
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\EventComposition.csproj.GenerateResource.Cache
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\EventComposition.exe
+S:\Learnings\C#\Functional\EventComposition\obj\Debug\EventComposition.pdb

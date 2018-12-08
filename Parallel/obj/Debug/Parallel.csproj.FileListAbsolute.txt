@@ -1,0 +1,6 @@
+S:\Learnings\C#\Functional\Parallel\bin\Debug\Parallel.exe.config
+S:\Learnings\C#\Functional\Parallel\bin\Debug\Parallel.exe
+S:\Learnings\C#\Functional\Parallel\bin\Debug\Parallel.pdb
+S:\Learnings\C#\Functional\Parallel\obj\Debug\Parallel.csprojResolveAssemblyReference.cache
+S:\Learnings\C#\Functional\Parallel\obj\Debug\Parallel.exe
+S:\Learnings\C#\Functional\Parallel\obj\Debug\Parallel.pdb

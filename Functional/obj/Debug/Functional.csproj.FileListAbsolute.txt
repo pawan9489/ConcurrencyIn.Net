@@ -1,0 +1,6 @@
+S:\Learnings\C#\Functional\Functional\bin\Debug\Functional.exe.config
+S:\Learnings\C#\Functional\Functional\bin\Debug\Functional.exe
+S:\Learnings\C#\Functional\Functional\bin\Debug\Functional.pdb
+S:\Learnings\C#\Functional\Functional\obj\Debug\Functional.csprojResolveAssemblyReference.cache
+S:\Learnings\C#\Functional\Functional\obj\Debug\Functional.exe
+S:\Learnings\C#\Functional\Functional\obj\Debug\Functional.pdb

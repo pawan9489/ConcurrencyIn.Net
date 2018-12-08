@@ -1,0 +1,9 @@
+S:\Learnings\C#\Functional\Composition\bin\Debug\Composition.exe.config
+S:\Learnings\C#\Functional\Composition\bin\Debug\Composition.XML
+S:\Learnings\C#\Functional\Composition\bin\Debug\Composition.exe
+S:\Learnings\C#\Functional\Composition\bin\Debug\Composition.pdb
+S:\Learnings\C#\Functional\Composition\bin\Debug\FSharp.Core.dll
+S:\Learnings\C#\Functional\Composition\bin\Debug\System.ValueTuple.dll
+S:\Learnings\C#\Functional\Composition\bin\Debug\FSharp.Core.xml
+S:\Learnings\C#\Functional\Composition\obj\Debug\Composition.exe
+S:\Learnings\C#\Functional\Composition\obj\Debug\Composition.pdb
