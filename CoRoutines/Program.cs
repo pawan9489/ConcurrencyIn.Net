@@ -18,6 +18,9 @@ namespace CoRoutines
         };
         static Random rand = new Random();
 
+        // Scala Iteratees == Python Yield == Enumerable and Observable at same time
+        // Pull and Push at the same time
+
         static void Main(string[] args)
         {
             var s = sender();
