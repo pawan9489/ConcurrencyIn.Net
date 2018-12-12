@@ -26,6 +26,7 @@ namespace ReactiveAppComposition
                        .Throttle(TimeSpan.FromSeconds(0.5));
 
             Console.WriteLine(getN(new Person()));
+            Console.WriteLine(Person.func()(4));
             using (text.Subscribe(Console.WriteLine))
             {
                 Application.Run(form);
@@ -40,5 +41,11 @@ namespace ReactiveAppComposition
     class Person
     {
         public string Name { get; set; }
+
+        public static Func<int, int> func()
+        {
+            int dbl(int x) => x * 2;
+            return dbl;
+        }
     }
 }
