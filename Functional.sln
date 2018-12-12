@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventComposition", "EventCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoRoutines", "CoRoutines\CoRoutines.csproj", "{6362CBBA-2CCE-4C79-BA3E-A7E6B0363E33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveAppComposition", "ReactiveAppComposition\ReactiveAppComposition.csproj", "{F8305F69-BB93-4D3F-B503-B0BCF742F3CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6362CBBA-2CCE-4C79-BA3E-A7E6B0363E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6362CBBA-2CCE-4C79-BA3E-A7E6B0363E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6362CBBA-2CCE-4C79-BA3E-A7E6B0363E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8305F69-BB93-4D3F-B503-B0BCF742F3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8305F69-BB93-4D3F-B503-B0BCF742F3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8305F69-BB93-4D3F-B503-B0BCF742F3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8305F69-BB93-4D3F-B503-B0BCF742F3CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
